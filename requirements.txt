@@ -1,0 +1,8 @@
+pyfirmata
+opencv-python
+numpy
+gTTS
+playsound
+Keras
+tensorflow
+cvlib
