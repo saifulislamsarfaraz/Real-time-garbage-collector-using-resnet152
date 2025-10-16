@@ -1,6 +1,10 @@
 # Real-time Garbage Collector using ResNet152
 
-This project is a real-time garbage classification system that uses a deep learning model to classify waste and a servo motor to control a trash bin lid. The system is built with Python, TensorFlow/Keras, and OpenCV, and it interacts with an Arduino to control the hardware.
+T
+
+https://github.com/user-attachments/assets/27950f7c-0562-4689-bba6-987eb1d09faa
+
+his project is a real-time garbage classification system that uses a deep learning model to classify waste and a servo motor to control a trash bin lid. The system is built with Python, TensorFlow/Keras, and OpenCV, and it interacts with an Arduino to control the hardware.
 
 ## Features
 
